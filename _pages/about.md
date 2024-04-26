@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Employment experience"
+title: "工作经历 Employment experience"
 author_profile: true
 redirect_from: 
   - /about/
