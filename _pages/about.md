@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ● 2022-至今 西安科技大学理学院 物理系
+
   2022-present Department of Physics, College of Science, Xi'an University of Science and Technology
 
 教育经历 Educational experience 
