@@ -39,7 +39,7 @@ redirect_from:
 
 分子动力学模拟 (Molecular Dynamics Simulations)
 
-第一性原理计算 (First-principle Computing)
+第一性原理计算 (First-principle Calculations)
 
 机器学习 (Machine Learning)
 
