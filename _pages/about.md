@@ -31,17 +31,17 @@ redirect_from:
   
 研究方向 Research interest
 ======
-高温热障涂层 (High-temperature Thermal Barrier Coatings)
+● 高温热障涂层 (High-temperature Thermal Barrier Coatings)
 
-热物理性和力学性质 (Thermophysical and Mechanical Properties)
+● 热物理性和力学性质 (Thermophysical and Mechanical Properties)
 
-声子热输运 (Phonon Thermal Transport)
+● 声子热输运 (Phonon Thermal Transport)
 
-分子动力学模拟 (Molecular Dynamics Simulations)
+● 分子动力学模拟 (Molecular Dynamics Simulations)
 
-第一性原理计算 (First-principle Calculations)
+● 第一性原理计算 (First-principle Calculations)
 
-机器学习 (Machine Learning)
+● 机器学习 (Machine Learning)
 
 Site-wide configuration
 ------
