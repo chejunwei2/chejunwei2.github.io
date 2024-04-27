@@ -1,8 +1,6 @@
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 ---
 permalink: /
-
-ddddddddddddddddddddddddddddddddd
-
 title: "工作经历 Employment experience"
 author_profile: true
 redirect_from: 
