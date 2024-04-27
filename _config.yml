@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "车军伟主页/Che Junwei's homepage"
+locale                   : "en-CN"
+title                    : "车军伟主页/homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
