@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-● 2022-至今, 西安科技大学理学院 物理系 
+● 2023-至今, 西安科技大学理学院 物理系 
 
 2022-present, Department of Physics, College of Science, Xi'an University of Science and Technology
 
