@@ -12,7 +12,7 @@ redirect_from:
 2022-present Department of Physics, College of Science, Xi'an University of Science and Technology
 
 教育经历 Educational experience 
-------
+======
 ● 2018.09-2022.12 西安交通大学 凝聚态物理 博士 
 
 2022-present Department of Physics, College of Science, Xi'an University of Science and Technology
