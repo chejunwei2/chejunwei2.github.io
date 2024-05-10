@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: https://github.com/chejunwei2/publications/
 author_profile: true
 ---
 
