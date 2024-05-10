@@ -43,7 +43,22 @@ redirect_from:
 
 ● 机器学习 (Machine Learning)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+相关链接 (Useful linkage)
+======
+● [LAMMPS](https://www.lammps.org/)： A classical molecular dynamics code.  
+
+● [VASP](https://www.vasp.at/)：A computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics.  
+
+● [GPUMD](https://gpumd.org/):  A general-purpose molecular dynamics (MD) package fully implemented on graphics processing units (GPU). In addition to several empirical interatomic potentials, it supports neuroevolution potential (NEP) models.
+
+● [ShengBTE](https://www.shengbte.org/): A code to calculate thermal conductivity by solving the phonon BTE. 
+
+● [Fourphonon](https://github.com/FourPhonon/FourPhonon):  An extension module to ShengBTE for computing four-phonon scattering rates and thermal conductivity.
+
+● [AlAMODE](http://alamode.readthedocs.io):  A code to analyze lattice anharmonicity and lattice thermal conductivity of solids. 
+
+● [TDEP](https://tdep-developers.github.io/tdep/): This package is a collection of tools for finite temperature lattice dynamics.
+
+● [GULP](https://gulp.curtin.edu.au/): A program for performing a variety of types of simulation on materials using boundary conditions of 0-D (molecules and clusters), 1-D (polymers), 2-D (surfaces, slabs and grain boundaries), or 3-D (periodic solids).   
+● [Phonopy](https://phonopy.github.io/phonopy/): A python code for phonon calculations at harmonic and quasi-harmonic levels.
 
