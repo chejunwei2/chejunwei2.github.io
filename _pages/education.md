@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /chejunwei2.github.io/_pages/education/
 title: "教育经历 Education experience"
 author_profile: true
 redirect_from: 
