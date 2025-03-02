@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Educational experience"
-    url: /Education/
+    url: /education/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/  
@@ -13,4 +13,4 @@ main:
     url: /publications/
     
   - title: "Cooperation"
-    url: /Cooperation/
+    url: /cooperation/
