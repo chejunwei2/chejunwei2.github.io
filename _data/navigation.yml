@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Employment experience"
-    url: /Employment/
-
   - title: "Educational experience"
     url: /Education/
 
