@@ -1,6 +1,7 @@
-
-教育经历 Educational experience 
-======
+---
+title: "Educational experience"
+permalink: /education/
+---
 ● 2018.09-2022.12 西安交通大学 凝聚态物理 博士 
 
 2018.09-2022.12, Condensed Matter Physics, School of Science, Xi'an Jiaotong University, PHD
