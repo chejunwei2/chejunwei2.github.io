@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "车军伟(Junwei Che)/个人主页(Homepage)"
+title                    : "车军伟个人主页/Junwei,Che Homepage"
 title_separator          : "-"
 name                     : &name "Junwei Che/(车军伟)"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chejunwei@xust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
