@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jjunwei Che Hompage/车军伟主页"
+title: "Junwei Che Hompage/车军伟主页"
 author_profile: true
 redirect_from: 
   - /about/
