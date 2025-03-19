@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jjunwei Che Hompage/车军伟主页"
 author_profile: true
 redirect_from: 
   - /about/
