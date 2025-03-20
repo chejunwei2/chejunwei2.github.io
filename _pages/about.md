@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "## Educational Experience / 教育经历"
+title: "## Personal Profile / 个人简介"
 author_profile: true
 redirect_from: 
   - /about/
