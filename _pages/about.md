@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Educational Experience/教育经历
 ======
-<div class="education-item">
+- <div class="education-item">
   <div style="font-size: 22px; font-weight: bold;">2021-2022</div>
   <div style="font-size: 22px;">
     Technische Universität Hamburg (TUHH), Ph.D. (Visiting)<br>
@@ -19,7 +19,7 @@ Educational Experience/教育经历
   </div>
 </div>
 
-<div class="education-item">
+- <div class="education-item">
   <div style="font-size: 22px; font-weight: bold;">2018-2022</div>
   <div style="font-size: 22px;">
     Xi’an Jiaotong University, Physics, Ph.D.<br>
@@ -27,7 +27,7 @@ Educational Experience/教育经历
   </div>
 </div>
 
-<div class="education-item">
+- <div class="education-item">
   <div style="font-size: 22px; font-weight: bold;">2015-2018</div>
   <div style="font-size: 22px;">
     Xi’an Jiaotong University, Materials Physics, M.S.<br>
@@ -35,7 +35,7 @@ Educational Experience/教育经历
   </div>
 </div>
 
-<div class="education-item">
+- <div class="education-item">
   <div style="font-size: 22px; font-weight: bold;">2011-2015</div>
   <div style="font-size: 22px;">
     Fuzhou University, Applied Physics, B.S.<br>
