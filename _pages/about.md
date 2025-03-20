@@ -37,6 +37,6 @@ Educational Experience/教育经历
 
 
 ## Educational Experience / 教育经历
-- <span style="font-size: 22px;">**2011-current**</span>  
-  <span style="font-size: 22px;">Xi'an University of Science and Technology, Department of Physics</span>  
-  <span style="font-size: 22px;">西安科技大学，物理系</span>
+- <span style="font-size: 20px;">**2011-current**</span>  
+  <span style="font-size: 20px;">Xi'an University of Science and Technology, Department of Physics</span>  
+  <span style="font-size: 20px;">西安科技大学，物理系</span>
