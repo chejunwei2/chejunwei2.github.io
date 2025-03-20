@@ -11,10 +11,21 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Educational Experience/教育经历
 ======
- 2021-2022 Technische Universität Hamburg (TUHH), PH.D (Visiting)
- 2018-2022 Xi'an Jiaotong University, Physics, PH.D
- 2015-2018 Xi'an Jiaotong University, Materials Physics, Master
- 2011-2015 Fuzhou University, Applied Physics, B.s.
+- **2021-2022**  
+  Technische Universität Hamburg (TUHH), Ph.D (Visiting)  
+  德国汉堡-哈尔堡工业大学，博士(联培)
+
+- **2018-2022**  
+  Xi'an Jiaotong University, Physics, Ph.D  
+  西安交通大学，物理学，博士
+
+- **2015-2018**  
+  Xi'an Jiaotong University, Materials Physics, Master  
+  西安交通大学，材料物理，硕士
+
+- **2011-2015**  
+  Fuzhou University, Applied Physics, B.S.  
+  福州大学，应用物理学，学士
 
 Work Experience/工作经历
 ======
