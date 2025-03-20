@@ -29,6 +29,6 @@ Educational Experience/教育经历
 
 Work Experience/工作经历
 ======
-- **2023-current**  
-  Xi'an University of Science and Technology, Department of Physics
-  西安科技大学，物理系
+- **2011-2015**  
+  Fuzhou University, Applied Physics, B.S.  
+  福州大学，应用物理学，学士
