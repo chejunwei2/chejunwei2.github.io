@@ -11,21 +11,38 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Educational Experience/教育经历
 ======
-- **2021-2022**  
-  Technische Universität Hamburg (TUHH), Ph.D. (Visiting)  
-  德国汉堡-哈尔堡工业大学，博士(联培)
+<div class="education-item">
+  <div style="font-size: 22px; font-weight: bold;">2021-2022</div>
+  <div style="font-size: 22px;">
+    Technische Universität Hamburg (TUHH), Ph.D. (Visiting)<br>
+    德国汉堡-哈尔堡工业大学，博士(联培)
+  </div>
+</div>
 
-- **2018-2022**  
-  Xi'an Jiaotong University, Physics, Ph.D.  
-  西安交通大学，物理学，博士
+<div class="education-item">
+  <div style="font-size: 22px; font-weight: bold;">2018-2022</div>
+  <div style="font-size: 22px;">
+    Xi’an Jiaotong University, Physics, Ph.D.<br>
+    西安交通大学，物理学，博士
+  </div>
+</div>
 
-- **2015-2018**  
-  Xi'an Jiaotong University, Materials Physics, M.S.  
-  西安交通大学，材料物理，硕士
+<div class="education-item">
+  <div style="font-size: 22px; font-weight: bold;">2015-2018</div>
+  <div style="font-size: 22px;">
+    Xi’an Jiaotong University, Materials Physics, M.S.<br>
+    西安交通大学，材料物理，硕士
+  </div>
+</div>
 
-- **2011-2015**  
-  Fuzhou University, Applied Physics, B.S.  
-  福州大学，应用物理学，学士
+<div class="education-item">
+  <div style="font-size: 22px; font-weight: bold;">2011-2015</div>
+  <div style="font-size: 22px;">
+    Fuzhou University, Applied Physics, B.S.<br>
+    福州大学，应用物理学，学士
+  </div>
+</div>
+
 
 Work Experience/工作经历
 ======
