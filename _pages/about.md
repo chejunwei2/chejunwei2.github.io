@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Dr. Che received his Bachelor of Science degree in Applied Physics from Fuzhou University in 2015. He went on to complete his Master of Science in Materials Science and Engineering and his Ph.D. in Physics at Xi’an Jiaotong University in 2018 and 2022, respectively. During his doctoral studies, he spent a year as a visiting Ph.D. student at the Technische Universität Hamburg (TUHH) in Germany from 2021 to 2022. Following his doctoral studies, Dr. Che joined Xi’an University of Science and Technology as a lecturer. His current research focuses on high-temperature ceramics, materials science, phonon thermal transport, molecular dynamics simulations, first-principles calculations, and machine-learning-driven atomistic simulations. To date, Dr. Che has authored over 30 research papers published in leading journals, including Acta Materialia, International Journal of Heat and Mass Transfer, Journal of Materials Science & Technology, and Ceramics International.
+
 Email: chejunwei@xust.edu.cn
 
 ## Educational Experience / 教育经历
