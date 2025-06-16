@@ -8,22 +8,22 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "News/新闻"
+  - title: "News"
     url: /news/ 
 
-  - title: "Research/研究"
-    url: /research/   
+  - title: "Projects"
+    url: /projects/   
 
-  - title: "People/人员"
+  - title: "People"
     url: /people/   
     
-  - title: "Teaching/教学"
+  - title: "Teaching"
     url: /teaching/   
 
-  - title: "Publications/发表文章"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Talks/报告"
+  - title: "Talks"
     url: /talks/         
 
 
