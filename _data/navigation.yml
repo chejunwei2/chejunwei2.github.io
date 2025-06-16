@@ -9,8 +9,7 @@
 
 main:
   - title: "News"
-    url: /news
-          新闻/ 
+    url: /news/ 
 
   - title: "Projects"
     url: /projects/   
