@@ -11,8 +11,8 @@ main:
   - title: "News"
     url: /news/ 
 
-  - title: "Research"
-    url: /research_interests/   
+  - title: "Studies"
+    url: /studies/   
 
   - title: "People"
     url: /people/   
