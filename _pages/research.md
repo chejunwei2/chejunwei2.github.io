@@ -3,7 +3,79 @@ title: "Research Interest / 研究课题"
 permalink: /research/
 author_profile: true
 ---
+
 ## Research Topics
+<style>
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 每行 3 张图 */
+  gap: 20px;
+  text-align: center;
+}
+
+.research-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.research-item p {
+  margin: 5px 0;
+}
+
+.research-item .en {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.research-item .cn {
+  font-size: 13px;
+  color: #555;
+}
+</style>
+
+<div class="research-grid">
+
+  <div class="research-item">
+    <img src="/images/research1.jpg" alt="Research 1">
+    <p class="en">High-temperature ceramics</p>
+    <p class="cn">高温陶瓷</p>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/research2.jpg" alt="Research 2">
+    <p class="en">Thermal barrier coatings</p>
+    <p class="cn">热障涂层</p>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/research3.jpg" alt="Research 3">
+    <p class="en">Phonon thermal transport</p>
+    <p class="cn">声子热传输</p>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/research4.jpg" alt="Research 4">
+    <p class="en">Molecular dynamics simulations</p>
+    <p class="cn">分子动力学模拟</p>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/research5.jpg" alt="Research 5">
+    <p class="en">Machine learning potentials</p>
+    <p class="cn">机器学习势能</p>
+  </div>
+
+  <div class="research-item">
+    <img src="/images/research6.jpg" alt="Research 6">
+    <p class="en">Lattice dynamics</p>
+    <p class="cn">晶格动力学</p>
+  </div>
+
+</div>
+
+
 
 
 ## Useful Links
