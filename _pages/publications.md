@@ -18,8 +18,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 5. Jiajun Linghu†, Mehwish Khalid Butt, Peng Feng, Ke Yang, Fei Ye, Tong Yang, **Junwei Che**, Ming Yang, Zhipeng Li. Multivalent metal perovskite YbCoO3 as a novel proton-conducting electrolyte for solid oxide fuel cells[J]. ***Ceramics International***, 2025, 51(3): 2922-2929.
 
 <h3 style="color:blue;">2024</h3>
-1. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
-2. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
+1. Guoliang Ren, Hanchao Zhang, **Junwei Che**, Huangyue Cai, Yidong Hu, Qiaodan Hu, Na Ni, Xiaofeng Zhao†, Fan Yang†. Oxygen ion diffusion in RE3TaO7: Why long-range migration of O2− is prohibited in the defective-fluorite structure?[J]. ***Acta Materialia***, 2024, 281: 120362.  
+2. **Junwei Che†**, Wenjie Huang, Guoliang Ren, Jiajun Linghu, Xuezhi Wang†. Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7[J]. ***Ceramics International***, 2024, 50(13): 22865-22873.
+3. Guoliang Ren, **Junwei Che**, Hanchao Zhang, Yali Yu, Wei Hao, Yinchun Shi, Fan Yang†, Xiaofeng Zhao†. Glass-like thermal conductivity and phonon transport mechanism in disordered crystals[J]. ***Materials Horizons***, 2024, 11(6): 1567-1578.
 
 <h3 style="color:blue;">2023</h3>
 1. Yifan Wang, Wenjie Huang, **Junwei Che**, Xuezhi Wang†. Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation[J]. ***Computational Materials Science***, 2023, 229: 112435.
