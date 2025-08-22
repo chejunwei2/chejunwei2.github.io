@@ -6,29 +6,32 @@ author_profile: true
 
 ## Research Topics
 <style>
-.research-gallery {
+.research-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 三列 */
+  grid-template-columns: repeat(3, 1fr); /* 每行 3 张图 */
   gap: 20px;
   text-align: center;
 }
 
-.research-gallery img {
+.research-item img {
   width: 100%;
-  height: 200px;   /* 统一高度 */
-  object-fit: cover; /* 按比例裁剪，保持整齐 */
+  height: auto;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
-.research-gallery p {
+
+.research-item p {
   margin: 5px 0;
 }
-.research-gallery .en {
+
+.research-item .en {
   font-weight: bold;
+  font-size: 14px;
 }
-.research-gallery .cn {
+
+.research-item .cn {
+  font-size: 13px;
   color: #555;
-  font-size: 0.9em;
 }
 </style>
 
