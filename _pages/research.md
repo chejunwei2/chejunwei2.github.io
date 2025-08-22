@@ -39,8 +39,8 @@ author_profile: true
 
   <div class="research-item">
     <img src="/images/research1.jpg" alt="Research 1">
-    <p class="en">High-temperature ceramics</p>
-    <p class="cn">高温陶瓷</p>
+    <p class="en">Materials Sciences</p>
+    <p class="cn">材料学</p>
   </div>
 
   <div class="research-item">
@@ -52,25 +52,25 @@ author_profile: true
   <div class="research-item">
     <img src="/images/research3.jpg" alt="Research 3">
     <p class="en">Phonon thermal transport</p>
-    <p class="cn">声子热传输</p>
+    <p class="cn">声子热传导</p>
   </div>
 
   <div class="research-item">
     <img src="/images/research4.jpg" alt="Research 4">
-    <p class="en">Molecular dynamics simulations</p>
-    <p class="cn">分子动力学模拟</p>
+    <p class="en">Mechanics of Materials</p>
+    <p class="cn">材料力学性质</p>
   </div>
 
   <div class="research-item">
     <img src="/images/research5.jpg" alt="Research 5">
-    <p class="en">Machine learning potentials</p>
-    <p class="cn">机器学习势能</p>
+    <p class="en">Computational Materials Science</p>
+    <p class="cn">计算材料学</p>
   </div>
 
   <div class="research-item">
     <img src="/images/research6.jpg" alt="Research 6">
-    <p class="en">Lattice dynamics</p>
-    <p class="cn">晶格动力学</p>
+    <p class="en">Machine Learning</p>
+    <p class="cn">机器学习</p>
   </div>
 
 </div>
