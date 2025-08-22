@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Research"
+title: "Research Interest"
 permalink: /research/
+author_profile: true
 ---
 
 # Research Overview
