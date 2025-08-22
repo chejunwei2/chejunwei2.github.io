@@ -36,16 +36,27 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 5. **Junwei Che**, Xuezhi Wang, Xiangyang Liu, Gongying Liang, Shengli Zhang†. Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation[J]. ***International Journal of Heat and Mass Transfer***, 2022, 182: 122038.
 
 <h3 style="color:blue;">2021</h3>
-_(Add your publications here)_
+1. **Junwei Che**, Xiangyang Liu, Xuezhi Wang, Quan Zhang, Erhu Zhang, Gongying Liang, Shengli Zhang†. Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7[J]. ***Journal of Materials Science & Technology***, 2022, 102: 174-185.
+2. Hao Yi, **Junwei Che**, Gongying Liang, Xiangyang Liu†. Effect of rare earth elements on stability and sintering resistance of tetragonal zirconia for advanced thermal barrier coatings[J]. ***Crystals***, 2021, 11(3): 287.
+3. **Junwei Che**, Xuezhi Wang, Xiangyang Liu, Gongying Liang, Shengli Zhang†. Outstanding sintering resistance in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7 for thermal barrier coatings material[J]. ***Ceramics International***, 2021, 47(5): 6996-7004.
+4. Hao Yi, **Junwei Che**, Zihui Xu, Gongying Liang, Xiangyang Liu†. Sintering resistance of La2Ce2O7, La2Zr2O7, and yttria stabilized zirconia ceramics[J]. ***Ceramics International***, 2021, 47(3): 4197-4205.
+5. Yuting Tang, **Junwei Che**, Guangzhao Qin†. On the microscopic view of the low thermal conductivity of buckling two-dimensional materials from molecular dynamics[J]. ***Chemical Physics Letters***, 2021, 780: 138954.
 
 <h3 style="color:blue;">2020</h3>
-_(Add your publications here)_
+1. Xuezhi Wang†, Srikanth Pilla, **Junwei Che**, Qingying Chen, Jiajun Linghu. The effects of interface layer in LZ/YSZ coupled system during thermal transportation at elevated temperatures: A molecular dynamics simulation study[J]. ***Chemical Physics Letters***, 2020, 755: 137788.
+2. Xuezhi Wang†, Srikanth Pilla, **Junwei Che**, Qingying Chen. Porous effects on heat transfer and ions distribution in YSZ using molecular dynamics simulation[J]. ***Chemical Physics Letters***, 2020, 747: 137339.
+3. Hao Yi, Xiangyang Liu, **Junwei Che**, Gongying Liang†. Thermochemical compatibility between La2 (Ce1-xZrx) 2O7 and 4 mol% Y2O3 stabilized zirconia after high temperature heat treatment[J]. ***Ceramics International***, 2020, 46(4): 4142-4147.
 
 <h3 style="color:blue;">2019</h3>
-_(Add your publications here)_
+1. W Fan, Y Bai, ZZ Wang, **JW Che**, Y Wang, WZ Tao, RJ Wang, GY Liang†. Effect of point defects on the thermal conductivity of Sc2O3-Y2O3 co-stabilized tetragonal ZrO2 ceramic materials[J]. Journal of the European Ceramic Society, 2019, 39(7): 2389-2396.
+2. XY Liu, **JW Che**, H Yi, Jiacheng Zhang, GY Liang†. Diffusion mechanism of oxygen ions in La2Zr2O7/YSZ composite ceramics[J]. ***Journal of Alloys and Compounds***, 2019, 778: 522-531.
+3. XY Liu, H Yi, **JW Che**, GY Liang†. Phase, compositional, structural, and chemical stability of La2Ce2O7 after high temperature heat treatment[J]. ***Ceramics International***, 2019, 45(4): 5030-5035.
+4. XY Liu, **JW Che**, H Yi, GY Liang†. Chemical compatibility between Ln2Zr2O7 (Ln= Nd, Sm, Gd) and tetragonal yttria stabilized zirconia after annealing at high temperatures[J]. ***Materials Letters***, 2019, 234: 159-162.
 
 <h3 style="color:blue;">2018</h3>
-_(Add your publications here)_
+1. XY Liu, **JW Che**, H Yi, GY Liang†. Influence of powder states on the composition and phase stability of LZ/YSZ composite thermal barrier coatings[J]. ***Ceramics International***, 2018, 44(16): 20291-20298.
+2. W Fan, ZZ Wang, Y Bai, **JW Che**, RJ Wang, F Ma, WZ Tao, GY Liang†. Improved properties of scandia and yttria co-doped zirconia as a potential thermal barrier material for high temperature applications[J]. ***Journal of the European Ceramic Society***, 2018, 38(13): 4502-4511.
+3. **JunWei Che**, XiangYang Liu, XueZhi Wang, GongYing Liang†. Structure, thermal expansion coefficient and phase stability of La2 (Zr0. 7Ce0. 3) 2O7 studied by molecular dynamic simulation and experiment[J]. ***Chemical Physics Letters***, 2018, 697: 48-52.
 
 
 ## Conference Papers
