@@ -1,12 +1,12 @@
 ---
+title: "Current Courses"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Current Courses
-- Materials Physics (Fall 2024, Graduate)
-- Computational Materials Science (Spring 2025, Undergraduate)
+## 本科生课程/Undergraduate Courses
+- College Physics Experiments/大学物理实验
 
-## Teaching Philosophy
-我注重通过科研案例来引导学生学习，让学生在解决实际问题中掌握理论知识。
+## 研究生课程/Graduate Courses
+Solid State Physics/固体物理
 
