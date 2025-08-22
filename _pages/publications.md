@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Journal Articles
 
 <h3 style="color:blue;">2025</h3>
-1. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
+1. Wang XZ, Chen ZW, **Che JW**, Linghu JJ. An atomic perspective of crack propagation under thermal stress field at high temperature in biphase high-entropy coupled ceramics composites[J]. **Materials Today Communications**, 2025: 113573. 
 2. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
 
 <h3 style="color:blue;">2024</h3>
@@ -39,6 +39,5 @@ _(Add your publications here)_
 
 ## Conference Papers
 
-1. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
-2. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
+ 
 
