@@ -24,14 +24,13 @@ author_profile: true
   margin: 5px 0;
 }
 
-.research-item .en {
+.research-gallery .en {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 1.2em;  /* 英文标题更大 */
 }
-
-.research-item .cn {
-  font-size: 13px;
+.research-gallery .cn {
   color: #555;
+  font-size: 1.2em;    /* 中文稍小 */
 }
 </style>
 
