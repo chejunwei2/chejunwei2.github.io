@@ -6,7 +6,7 @@ author_profile: true
 
 
 ## Useful Links
-- <span style="color:red; font-weight:bold">LAMMPS</span>：A classical molecular dynamics code. 
+- <span style="color:red; font-weight:bold">LAMMPS</span>(https://www.lammps.org/#gsc.tab=0)：A classical molecular dynamics code. 
 - <span style="color:red; font-weight:bold">VASP</span>：A computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics. 
 - <span style="color:red; font-weight:bold">My Github</span>：github.com/chejunwei2 
 - <span style="color:red; font-weight:bold">GPUMD</span>:  A general-purpose molecular dynamics (MD) package fully implemented on graphics processing units (GPU). In addition to several empirical interatomic potentials, it supports neuroevolution potential (NEP) models. gpumd.org/ 
