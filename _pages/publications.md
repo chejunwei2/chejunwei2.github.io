@@ -22,7 +22,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2. H. A. Eivari, Z. Sohbatzadeh, P. Mele, M. H. N. Assadi, *Mater. Today Energy* **2021**, 21, 100744.  
 
 <h3 style="color:blue;">2023</h3>
-_(Add your publications here)_
+1. Yifan Wang, Wenjie Huang, **Junwei Che**, Xuezhi Wang†. Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation[J]. ***Computational Materials Science***, 2023, 229: 112435.
+2. Wenjie Huang, **Junwei Che**, Xuezhi Wang†, Niancai Peng†. Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19[J]. Journal of Alloys and Compounds, 2023, 955: 170245. 
+3. **Junwei Che**, Xiangyang Liu, Xuezhi Wang, Kaline P Furlan†, Shengli Zhang†. Influence of B-site substituent Ce on thermophysical, oxygen diffusion, and mechanical properties of La2Zr2O7[J]. Ceramics International, 2023, 49(7): 10936-10945. 
+4. XueZhi Wang†, YuTing Tang, **JunWei Che**, JiaJun Linghu, ZaoYang Hou. Mechanism of amorphous-like thermal conductivityin binary oxide Yb3TaO7[J]. Acta Physica Sinica, 2023, 72(5).
+5. Xuezhi Wang†, **Junwei Che**, Wenjie Huang, Jiajun Linghu, Zhaoyang Hou. Mechanism of crack propagation in penta-graphene[J]. Vacuum, 2023, 207: 111582.
 
 <h3 style="color:blue;">2022</h3>
 _(Add your publications here)_
