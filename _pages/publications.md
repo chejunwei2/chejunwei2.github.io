@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com).
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com.hk/citations?user=z6DY2D0AAAAJ&hl=zh-CN).
 
 ---
 
