@@ -62,7 +62,7 @@ author_profile: true
 
   <div class="research-item">
     <img src="/images/research5.jpg" alt="Research 5">
-    <p class="en">Computational Materials Science</p>
+    <p class="en">Computational Materials</p>
     <p class="cn">计算材料学</p>
   </div>
 
