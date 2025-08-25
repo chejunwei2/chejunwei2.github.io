@@ -4,9 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## 本科生课程 / Undergraduate Courses
+## Undergraduate Courses / 本科生课程
 - *College Physics Experiments* / 大学物理实验
 
-## 研究生课程 / Graduate Courses
+## Graduate Courses / 研究生课程
 - *Solid State Physics* / 固体物理
 
