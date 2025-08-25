@@ -44,13 +44,13 @@ author_profile: true
 
   <div class="research-item">
     <img src="/images/research2.jpg" alt="Research 2">
-    <p class="en">Thermal barrier coatings</p>
+    <p class="en">Thermal Barrier Coatings</p>
     <p class="cn">热障涂层</p>
   </div>
 
   <div class="research-item">
     <img src="/images/research3.jpg" alt="Research 3">
-    <p class="en">Phonon thermal transport</p>
+    <p class="en">Phonon Thermal Transport</p>
     <p class="cn">声子热传导</p>
   </div>
 
