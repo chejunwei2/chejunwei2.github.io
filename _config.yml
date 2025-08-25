@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "车军伟个人主页/Junwei,Che Homepage"
+title                    : "车军伟个人主页/Junwei Che"
 title_separator          : "-"
-name                     : &name "Junwei Che/(车军伟)"
+name                     : &name "Junwei Che (车军伟)"
 description              : &description "personal description"
 url                      : https://chejunwei2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
