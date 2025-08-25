@@ -38,8 +38,8 @@ author_profile: true
 
   <div class="research-item">
     <img src="/images/research1.jpg" alt="Research 1">
-    <p class="en">Materials Sciences</p>
-    <p class="cn">材料学</p>
+    <p class="en">Novel Energy Materials</p>
+    <p class="cn">新能源材料</p>
   </div>
 
   <div class="research-item">
