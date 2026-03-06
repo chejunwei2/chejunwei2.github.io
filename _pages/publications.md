@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 <h3 style="color:blue;">2026</h3>
-1. **Junwei Che†**, **Xuezhi Wang†**. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 2026, 267: 114606.
+1. **Junwei Che†**, Xuezhi Wang†. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 2026, 267: 114606.
 
 <h3 style="color:blue;">2025</h3>
 1. Guoliang Ren, **Junwei Che**, Hanchao Zhang, Huangyue Cai, Wenbo Li, Wei Hao, Qiaodan Hu, Xiaofeng Zhao, Fan Yang. Tailoring the fracture toughness of fluorite-type rare-earth tantalates: From atomic scale fracture mechanism to bond-mediated toughening design. ***Acta Materialia***, 2025, 34: 121820.
