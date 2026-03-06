@@ -9,14 +9,17 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ---
 
 ## Journal Articles
+<h3 style="color:blue;">2026</h3>
+1. **Junwei Che†**, **Xuezhi Wang†**. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 2026, 267: 114606.
 
 <h3 style="color:blue;">2025</h3>
-1. **Junwei Che†**, Guoliang Ren, Xuezhi Wang. Synergistically enhanced thermophysical and mechanical properties of La2(Hf1‒xCex)2O7 for thermal barrier coatings. ***Ceramics International***, 2025, 28(51): 56123-5613.
-2. Xuezhi Wang†, Zhengwang Chen, **Junwei Che**, Jiajun Linghu. An atomic perspective of crack propagation under thermal stress field at high temperature in biphase high-entropy coupled ceramics composites. ***Materials Today Communications***, 2025: 113573. 
-3. Yuzhou Hao, **Junwei Che**, Xiaoying Wang, Xuejie Li, Turab Lookman, Jun Sun, Xiangdong Ding, Zhibin Gao†. Copper delocalization leads to ultralow thermal conductivity in chalcohalide CuBiSeCl2. ***Physical Review B***, 2025, 111(19): 195207.
-4. Yangjun Qin, Zhicheng Zong, **Junwei Che**, Tianhao Li, Haisheng Fang, Nuo Yang†.  A significant enhancement in thermal conductivity of plastic crystals under compressive strain by deep potential molecular dynamics. ***Applied Physics Letters***, 2025, 126(10)：104101.
-5. Zhengwang Chen, Jiajun Linghu†, Qiang Zhang, **Junwei Che**, Xuezhi Wang, Songrui Wei. A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/α-CdS heterostructure. ***2D Materials***, 2025, 12(2): 025012.
-6. Jiajun Linghu†, Mehwish Khalid Butt, Peng Feng, Ke Yang, Fei Ye, Tong Yang, **Junwei Che**, Ming Yang, Zhipeng Li. Multivalent metal perovskite YbCoO3 as a novel proton-conducting electrolyte for solid oxide fuel cells. ***Ceramics International***, 2025, 51(3): 2922-2929.
+1. Guoliang Ren, **Junwei Che**, Hanchao Zhang, Huangyue Cai, Wenbo Li, Wei Hao, Qiaodan Hu, Xiaofeng Zhao, Fan Yang. Tailoring the fracture toughness of fluorite-type rare-earth tantalates: From atomic scale fracture mechanism to bond-mediated toughening design. ***Acta Materialia***, 2025, 34: 121820.
+2. **Junwei Che†**, Guoliang Ren, Xuezhi Wang. Synergistically enhanced thermophysical and mechanical properties of La2(Hf1‒xCex)2O7 for thermal barrier coatings. ***Ceramics International***, 2025, 28(51): 56123-5613.
+3. Xuezhi Wang†, Zhengwang Chen, **Junwei Che**, Jiajun Linghu. An atomic perspective of crack propagation under thermal stress field at high temperature in biphase high-entropy coupled ceramics composites. ***Materials Today Communications***, 2025, 48: 113573. 
+4. Yuzhou Hao, **Junwei Che**, Xiaoying Wang, Xuejie Li, Turab Lookman, Jun Sun, Xiangdong Ding, Zhibin Gao†. Copper delocalization leads to ultralow thermal conductivity in chalcohalide CuBiSeCl2. ***Physical Review B***, 2025, 111(19): 195207.
+5. Yangjun Qin, Zhicheng Zong, **Junwei Che**, Tianhao Li, Haisheng Fang, Nuo Yang†.  A significant enhancement in thermal conductivity of plastic crystals under compressive strain by deep potential molecular dynamics. ***Applied Physics Letters***, 2025, 126(10)：104101.
+6. Zhengwang Chen, Jiajun Linghu†, Qiang Zhang, **Junwei Che**, Xuezhi Wang, Songrui Wei. A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/α-CdS heterostructure. ***2D Materials***, 2025, 12(2): 025012.
+7. Jiajun Linghu†, Mehwish Khalid Butt, Peng Feng, Ke Yang, Fei Ye, Tong Yang, **Junwei Che**, Ming Yang, Zhipeng Li. Multivalent metal perovskite YbCoO3 as a novel proton-conducting electrolyte for solid oxide fuel cells. ***Ceramics International***, 2025, 51(3): 2922-2929.
 
 <h3 style="color:blue;">2024</h3>
 1. Guoliang Ren, Hanchao Zhang, **Junwei Che**, Huangyue Cai, Yidong Hu, Qiaodan Hu, Na Ni, Xiaofeng Zhao†, Fan Yang†. Oxygen ion diffusion in RE3TaO7: Why long-range migration of O2− is prohibited in the defective-fluorite structure?. ***Acta Materialia***, 2024, 281: 120362.  
