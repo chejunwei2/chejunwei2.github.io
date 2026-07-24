@@ -10,7 +10,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal Articles
 <h3 style="color:blue;">2026</h3>
-1. **Junwei Che†**, Xuezhi Wang†. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 2026, 267: 114606.
+1. Jiajun Linghu, Tianjun Wen, Zidong Liang, Xiaona Sun, Jiajie Zhang, Xuezhi Wang, **Junwei Che**, Songrui Wei†. Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity. ***Surfaces and Interfaces***, 2026, 96: 109881.
+2. **Junwei Che†**, Guoliang, Xuezhi Wang, Shengli Zhang†. Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: Critical role of temperature-dependent quartic anharmonicity. ***Applied Physics Letters***, 2026, 128(24): 114606, 241904.
+3. **Junwei Che†**, Xuezhi Wang†. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. ***Computational Materials Science***, 2026, 267: 114606.
 
 <h3 style="color:blue;">2025</h3>
 1. Guoliang Ren, **Junwei Che**, Hanchao Zhang, Huangyue Cai, Wenbo Li, Wei Hao, Qiaodan Hu, Xiaofeng Zhao, Fan Yang. Tailoring the fracture toughness of fluorite-type rare-earth tantalates: From atomic scale fracture mechanism to bond-mediated toughening design. ***Acta Materialia***, 2025, 34: 121820.
