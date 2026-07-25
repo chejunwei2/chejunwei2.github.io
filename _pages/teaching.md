@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Undergraduate Courses / 本科生课程
+- *College Physics* / 大学物理
 - *College Physics Experiments* / 大学物理实验
 
 ## Graduate Courses / 研究生课程
